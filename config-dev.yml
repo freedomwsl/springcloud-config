@@ -1,2 +1,2 @@
-age: 100
-name: config-dev
+config:
+  info: "config-dev version=1"
